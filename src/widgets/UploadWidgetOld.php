@@ -1,15 +1,15 @@
 <?php
 
 /**
- * Lombardia Informatica S.p.A.
+ * Aria S.p.A.
  * OPEN 2.0
  *
  *
- * @package    lispa\amos\upload
+ * @package    open20\amos\upload
  * @category   CategoryName
  */
 
-namespace lispa\amos\upload\widgets;
+namespace open20\amos\upload\widgets;
 
 use yii\base\Widget;
 use yii\helpers\Html;

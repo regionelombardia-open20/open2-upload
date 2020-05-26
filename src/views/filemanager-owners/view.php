@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Lombardia Informatica S.p.A.
+ * Aria S.p.A.
  * OPEN 2.0
  *
  *
- * @package    lispa\amos\upload
+ * @package    open20\amos\upload
  * @category   CategoryName
  */
 
@@ -15,7 +15,7 @@ use kartik\datecontrol\DateControl;
 
 /**
 * @var yii\web\View $this
-* @var lispa\amos\upload\models\FilemanagerOwners $model
+* @var open20\amos\upload\models\FilemanagerOwners $model
 */
 
 $this->title = $model->mediafile_id;

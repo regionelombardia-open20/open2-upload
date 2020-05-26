@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Lombardia Informatica S.p.A.
+ * Aria S.p.A.
  * OPEN 2.0
  *
  *
- * @package    lispa\amos\upload
+ * @package    open20\amos\upload
  * @category   CategoryName
  */
 
@@ -25,8 +25,12 @@ use yii\web\JsExpression;
  *
  * Wrapper for the Bootstrap FileInput JQuery Plugin by Krajee
  *
+ * @see http://plugins.krajee.com/bootstrap-fileinput
+ * @see https://github.com/kartik-v/bootstrap-fileinput
  *
+ * @author Kartik Visweswaran <kartikv2@gmail.com>
  * @since 2.0
+ * @see http://twitter.github.com/typeahead.js/examples
  */
 class FileInput extends \kartik\base\InputWidget
 {

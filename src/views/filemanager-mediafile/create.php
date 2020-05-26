@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Lombardia Informatica S.p.A.
+ * Aria S.p.A.
  * OPEN 2.0
  *
  *
- * @package    lispa\amos\upload
+ * @package    open20\amos\upload
  * @category   CategoryName
  */
 
@@ -13,7 +13,7 @@ use yii\helpers\Html;
 
 /**
 * @var yii\web\View $this
-* @var lispa\amos\upload\models\FilemanagerMediafile $model
+* @var open20\amos\upload\models\FilemanagerMediafile $model
 */
 
 $this->title = Yii::t('amosupload', 'Create {modelClass}', [

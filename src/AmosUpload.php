@@ -1,21 +1,21 @@
 <?php
 
 /**
- * Lombardia Informatica S.p.A.
+ * Aria S.p.A.
  * OPEN 2.0
  *
  *
- * @package    lispa\amos\upload
+ * @package    open20\amos\upload
  * @category   CategoryName
  */
 
-namespace lispa\amos\upload;
+namespace open20\amos\upload;
 
 use pendalf89\filemanager\Module;
 
 class AmosUpload extends Module
 {
-    public $controllerNamespace = 'lispa\amos\upload\controllers';
+    public $controllerNamespace = 'open20\amos\upload\controllers';
 
     public function init()
     {

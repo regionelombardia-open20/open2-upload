@@ -1,10 +1,10 @@
 {
-    "name": "lispa/amos-upload",
+    "name": "open20/amos-upload",
     "description": "Gestione Upload - plugin",
     "keywords": ["amos", "upload", "file", "yii2"],
-    "homepage": "http://www.lispa.it/",
+    "homepage": "http://www.open20.it/",
     "type": "component",
-    "proscription": "BSD-3-Clause",
+    "license": "BSD-3-Clause",
     "support": {
         "issues": "https://github.com/yiisoft/yii2/issues?state=open",
         "forum": "http://www.yiiframework.com/forum/",
@@ -14,8 +14,8 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "lispa/amos-core" : "*",
-        "lispa/yii2-filemanager" : "*"
+        "open20/amos-core": "*",
+        "open20/yii2-filemanager": "*"
     },
     "config": {
         "process-timeout": 1800,
@@ -23,7 +23,7 @@
     },    
     "autoload": {
         "psr-4": {
-            "lispa\\amos\\upload\\": "src"
+            "open20\\amos\\upload\\": "src"
         }
     },
     "scripts": {
